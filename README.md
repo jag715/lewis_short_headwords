@@ -9,12 +9,12 @@ The Python script (main.py) looks for a copy of 'lewis-short.txt' which you can 
 
 For example, in the following four entries:
 
-'''
+```
 damnāticĭus (or -tius), a, um, adj. damno, condemned, sentenced;
 disjunctĭo or dījunctio, ōnis, f. disjungo, a separation;
 intĕremptĭo (-emt-), ōnis, f. id., destruction, slaughter;
 octōgĭes or -iens..
-'''
+```
 
 it will identify both the headword as listed (damnāticĭus, disjunctĭo, intĕremptĭo and octōgĭes) and the alternate version (damnātitius, dījunctio, intĕremtĭo, octōgĭens).
 
