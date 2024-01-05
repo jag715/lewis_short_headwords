@@ -1106,7 +1106,6 @@ with open(TEXT_RESULT_FILE, 'r') as f:
 
 print('')
 print(f'Verifying text file, searching for {KEYWORD}:')
-#dŭcentĭes or -ĭens
 print(LS_DICTIONARY['dŭcentĭens']) # Again, should find the variant.
 
 print('')
