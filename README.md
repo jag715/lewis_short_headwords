@@ -25,8 +25,10 @@ OUTPUT: lewis_short_by_headword.txt
 
 The text output file is formatted in pairs of lines, as follows: The first line begins with # and then is a comma-separated list of headwords that link to a dictionary entry. The second line is the dictionary entry these headwords link to. Dictionary entries contain no newlines.
 
+```
 Line 1: #a,ab,abs
 Line 2: a, ab, abs: preposition, 'from', etc..
+```
 
 The JSON file stores the same data in a Python dictionary.
 
